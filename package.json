@@ -1,0 +1,25 @@
+{
+  "name": "javascript_samples",
+  "version": "1.0.0",
+  "description": "Javscript Samples",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garyfoxes/JavascriptSamples.git"
+  },
+  "author": "Gary Fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garyfoxes/JavascriptSamples/issues"
+  },
+  "homepage": "https://github.com/garyfoxes/JavascriptSamples#readme",
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  }
+}
