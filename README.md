@@ -1,1 +1,1 @@
-Javscript Smples
+Javscript Samples

@@ -9,7 +9,7 @@ let result = function (num1,num2) {
 console.log(result);
 
 //invoke anonymous function
-//particular useful to avoid collisions with vriables from other files(safe code)
+//particular useful to avoid collisions with variables from other files(safe code)
 (function (num1,num2) {
     console.log(num1 * num2);
 })(3,4);
